@@ -1,0 +1,697 @@
+@media screen and (min-width: 1441px) and (max-width: 2560px) {
+    .creation-area__block {
+        justify-content: center;
+    }
+
+    .enter-area__bg {
+        background-size: cover;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .enter-area__content p {
+        width: 90%;
+    }
+    .block .column.content {
+        text-align: center;
+    }
+
+    .block .column.content .btn-wth_grdnt {
+        margin: 0 auto;
+    }
+
+    .creation-area__block .column.content {
+        margin-top: 25px;
+    }
+
+    .solution-area__block .image img {
+        margin-left: -80px;
+    }
+
+    .creation-area__block .image img {
+        margin-left: 0px;
+    }
+
+    .creation-area__block .column.image {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .column-header {
+        text-align: center;
+    }
+    .team-owl__carousel {
+        margin-left: 70px;
+    }
+    .header .collapse.show {
+        height: 100vh;
+        visibility: visible;
+        opacity: 1;
+    }
+
+    .header .navbar-collapse {
+        visibility: hidden;
+        opacity: 0;
+        display: flex !important;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        background: #FFFFFF;
+        justify-content: center !important;
+        align-items: center;
+        transition: 0.3s all;
+    }
+
+    .header .navbar-nav {
+        text-align: center;
+    }
+
+    .header .navbar-nav li {
+        margin-bottom: 25px;
+    }
+
+    .header .navbar-nav li a {
+        color: #000000;
+        margin-right: 0px;
+        display: block;
+    }
+
+    .navbar-toggler {
+        z-index: 9999;
+    }
+
+    .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon i {
+        color: #000000;
+        font-size: 32px;
+    }
+
+    .navbar-toggler[aria-expanded="false"] .navbar-toggler-icon i {
+        color: #FFFFFF;
+        font-size: 32px;
+    }
+    .header-light .navbar-toggler[aria-expanded="false"] .navbar-toggler-icon i {
+        color: #000000;
+        font-size: 32px;
+    }
+    .collapse.show.navbar-toggler-icon i {
+        color: #000000;
+    }
+
+    .header .navbar-nav li:nth-last-child(1) a {
+        border: 1px solid #000000;
+    }
+
+    .creation-area__block-content {
+        margin-left: 0px;
+        margin-top: 35px;
+    }
+
+    .creation-area__block-content .main-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .benefits-area .item {
+        max-width: 216px;
+    }
+
+    .numbers-area__block-content .item h4 {
+        font-size: 32px;
+    }
+
+    .numbers-area__block-content .item:nth-child(1) {
+        margin-right: 38px;
+    }
+
+    .numbers-area__block-content .item:nth-child(2) {
+        margin-right: 38px;
+    }
+
+    .numbers-area__block-content .item:nth-child(3) {
+        margin-right: 42px;
+    }
+
+    h3 {
+        font-size: 30px;
+    }
+
+    .partners-area__block .items {
+        flex-wrap: wrap;
+    }
+
+    .creation-area__block-content, .solution-area__block-content {
+        max-width: 675px;
+    }
+
+    .enter-area__content {
+        max-width: 65%;
+    }
+
+    .benefits-area .item-content .main-btn {
+        letter-spacing: 0.1em;
+    }
+
+    .creation-area__block-img {
+        margin-right: 0px;
+    }
+
+    .solution-area__block-img {
+        margin-left: 0px;
+    }
+
+    .enter-area__bg {
+        background-position: center;
+    }
+
+
+    .services .enter-area__content p {
+        margin: 5px 0px 0px;
+        width: 70%;
+    }
+
+    h1 {
+        font-size: 36px;
+    }
+
+    .sales-area__block-img img {
+        margin: auto;
+        width: 496px;
+    }
+
+    .news-area__block {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .news-area__block .column .hlp:nth-child(2) {
+        text-align: right;
+    }
+
+    .news-area__block .column {
+        margin-bottom: 35px;
+    }
+
+    .news-area__block .column:nth-last-child(1) {
+        margin-bottom: 0px;
+    }
+
+    .products-area__block {
+        justify-content: center !important;
+        align-items: center !important;
+    }
+
+    .block {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .block .column:nth-child(1) {
+        margin-bottom: 0px;
+    }
+
+    .block .column:nth-child(2) {
+        margin-top: 25px;
+    }
+    .products-area__block .item {
+        margin-bottom: 60px!important;
+    }
+
+    .block .column.content h3 {
+        width: 100%;
+    }
+
+    .insurance-area__header {
+        text-align: center;
+    }
+
+    .about-us .block .column:first-child {
+        margin-bottom: 25px;
+    }
+
+    .team-owl__carousel .owl-nav {
+        left: 70%;
+    }
+
+    .opportunity-area__block-img img {
+        position: inherit;
+    }
+
+    .about-us .enter-area__content {
+        width: 65%;
+    }
+
+    .navbar-brand {
+        margin-left: 0px;
+    }
+    .column .item .item-header {
+        text-align: center;
+    }
+    .block .column.image img {
+        width: 100%;
+        margin: 0px;
+    }
+
+    .creation-area .column:first-child {
+        margin-left: 0px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .partners-owl__carousel .item {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .owl-carousel .owl-item img {
+        width: auto;
+    }
+    .enter-area__content {
+        max-width: 85%;
+    }
+
+    .enter-area__content h1 {
+        font-size: 36px;
+    }
+
+    .enter-area__content h1 span {
+        font-size: 22px;
+    }
+
+    .benefits-area .items {
+        flex-wrap: wrap;
+    }
+
+    .benefits-area .items .item {
+        flex-grow: 1;
+        max-width: calc(100% * (2 / 4) - 10px - 1px);
+        margin-top: 15px;
+    }
+
+    .benefits-area .item-content {
+        max-height: 89px;
+    }
+
+    .numbers-area__block-content .item span {
+        font-size: 12px;
+    }
+
+    .numbers-area__block-content .item h4 {
+        font-size: 25px;
+    }
+
+    .numbers-area__block-content .item {
+        margin-right: 25px !important;
+    }
+
+    .creation-area__block-img {
+        margin-left: 0px;
+    }
+
+    .partners-area__block .items .item {
+        flex: 1 0 32%;
+        text-align: center;
+    }
+
+    .footer .items {
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .services .enter-area__content p {
+        font-size: 14px;
+    }
+
+    .services .enter-area__content h1 {
+        font-size: 28px;
+    }
+
+    .block {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .produce-area__block .column h3 {
+        width: 100%;
+    }
+
+    .produce-area__block .column:nth-child(1) {
+        margin-bottom: 46px;
+    }
+
+    .inputs-area__block-img img {
+        margin-top: 0px;
+    }
+
+    .insurance-area__block .items .item {
+        width: 320px;
+    }
+    .team-owl__carousel {
+        margin-left: 0px;
+    }
+    .card-area__block .items .item:nth-child(3n+3) {
+        margin-right: 30px
+    }
+    .card-area__block .items .item:nth-child(2n+2) {
+        margin-right: 0px
+    }
+    .about-us .enter-area__content {
+        width: 85%;
+    }
+    .info-area__block {
+        flex-wrap: wrap;
+        justify-content: center!important;
+    }
+    .products .enter-area__content {
+        width: 70%;
+    }
+    .milestone-owl__carousel .item {
+        width: auto!important;
+    }
+    .team-owl__carousel .owl-item {
+        display: flex;
+        justify-content: center;
+    }
+    .team-owl__carousel .owl-nav {
+        left: 78%;
+    }
+    .about-us .enter-area__content {
+        padding-top: 150px;
+    }
+    .about-us .enter-area__content {
+        width: 80%;
+    }
+    .msg-btn {
+        flex-direction: column;
+        align-items: end;
+    }
+    .submit-column .btn-wth_grdnt {
+        margin-top: 35px;
+    }
+    .form-group__message {
+        margin-right: 0px!important;
+    }
+    .news-owl__carousel .owl-item {
+        display: flex;
+        justify-content: center;
+    }
+    .faqs-area .tab-content {
+        margin-top: 35px;
+    }
+    .nav-pills {
+        max-width: 100%;
+        margin-right: 0px;
+    }
+    .posts .news-owl__carousel .owl-dots {
+        position: revert;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .header .navbar {
+        padding: 30px 30px;
+    }
+    .enter-area {
+        height: 812px!important;
+    }
+    .products .enter-area__bg {
+        background-image: url("../img/bg3.png");
+    }
+    .enter-area__bg {
+        background-image: url("../img/bg-phone.png");
+        background-size: 100%;
+    }
+    .enter-area__content {
+        max-width: 310px;
+        width: 100%!important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding-top: 153px;
+        padding-bottom: 0px;
+        margin: 0 auto;
+    }
+    .enter-area:before {
+        display: none;
+    }
+
+    .enter-area__content h1 {
+        font-size: 36px;
+        text-align: center;
+        line-height: 120%;
+    }
+
+    .enter-area__content h1 span {
+        font-size: 16px;
+        margin: 0px 0px 12px;
+    }
+
+    .enter-area__content p {
+        font-size: 14px;
+        line-height: 120%;
+        text-align: center;
+        margin-top: 2px;
+    }
+    .products .enter-area__content {
+        padding-top: 219px;
+    }
+    .products-area__block .item {
+        margin-bottom: 60px;
+    }
+    .insurance-area__header {
+        text-align: center;
+    }
+
+    .solution-area {
+        padding: 59px 0px 0px;
+    }
+    .creation-area__block-img img {
+        width: 100%;
+    }
+
+    .navbar-brand {
+        margin-left: 0px;
+    }
+
+    .creation-area {
+        padding: 8px 11px 86px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+
+    .benefits-area {
+        background-position: center;
+    }
+
+    .benefits-area .items .item {
+        max-width: calc(100% * (4 / 4) - 10px - 1px);
+    }
+
+    .benefits-area .item-content {
+        max-height: 79px;
+    }
+
+    .numbers-area {
+        display: none;
+    }
+
+    .partners-area__block .items .item {
+        margin-bottom: 30px;
+    }
+
+    .partners-area {
+        padding-bottom: 78px;
+    }
+
+    .footer .items .item:nth-last-child(1) {
+        justify-content: center;
+    }
+
+    .footer .items .item:nth-child(1) {
+        width: 100%;
+    }
+    .services .enter-area__bg {
+        background-image: url("../img/bg2.png");
+    }
+    .services .enter-area__content {
+        padding-top: 219px;
+    }
+    .services .enter-area__content h1 {
+        font-size: 36px;
+    }
+
+    .services .enter-area__content p {
+        font-size: 16px;
+        margin-top: 14px;
+        width: 100%;
+    }
+
+    .services .enter-area__content {
+        width: 100%;
+    }
+
+    .produce-area__block .column h3 {
+        margin-bottom: 12px;
+    }
+
+    .mb-25 {
+        margin-bottom: 12px;
+    }
+
+    .insurance-area__block .items {
+        justify-content: center !important;
+    }
+
+    .loans-area__block-img img, .sales-area__block-img img, .building-area__block-img img, .inputs-area__block-img img {
+        width: 100%;
+    }
+
+    .building-area__block-img img {
+        margin-left: 0px;
+    }
+
+    .team-owl__carousel .owl-nav {
+        position: revert;
+        margin-bottom: 15px;
+    }
+    .team-owl__carousel .owl-dots {
+        position: revert;
+    }
+    .team-area__header {
+        flex-direction: column;
+    }
+    .team-area__header-txt {
+        margin-bottom: 15px;
+    }
+    .technology-area__block .column:first-child {
+        background-image: none;
+    }
+    .technology-area__block .items .item {
+        align-self: center!important;
+        margin-right: 0px!important;
+        margin-left: 0px!important;
+        margin-bottom: 50px!important;
+    }
+    .opportunity-area__block-img img {
+        width: 100%;
+    }
+    .milestone-owl__carousel .owl-prev {
+        margin-right: 5px!important;
+    }
+    .card-area__block .items .item {
+        margin-right: 0px!important;
+        margin-bottom: 30px!important;
+    }
+    .milestone-owl__carousel .item {
+        width: 250px!important;
+    }
+    .milestone-owl__carousel .owl-item {
+        display: flex;
+        justify-content: center;
+    }
+    .milestone-owl__carousel .item .item-popup__content {
+        width: 275px;
+        top: -141px;
+        left: -52px;
+    }
+    .milestone-owl__carousel .item .item-popup__content:before {
+        left:45px;
+    }
+    .card-area__header .subtitle {
+        font-size: 18px;
+    }
+    .about-us .enter-area__bg {
+        background-image: url("../img/bg4.png");
+    }
+    .team-owl__carousel .owl-stage-outer {
+        padding: 30px 0px;
+    }
+    .header-light {
+        padding-bottom: 0px;
+    }
+    .questions-block__inner {
+        padding: 25px;
+    }
+    #nav-contact__form .nav-link {
+        margin-right: 10px;
+        font-size: 18px;
+    }
+    .captcha img {
+        width: 100%;
+    }
+    .inputs-group {
+        flex-direction: column;
+    }
+    .questions-block__inner h3 .subtitle {
+        font-size: 28px;
+    }
+    .resources .news-area__header {
+        flex-direction: column;
+    }
+    .join-btn {
+        width: 220px;
+        height: 50px;
+    }
+    .resources .news-owl__carousel .owl-stage-outer {
+        margin-bottom: 15px;
+    }
+    .news-owl__carousel .owl-stage {
+        padding: 35px 0px 35px 0px;
+    }
+     .news-owl__carousel .owl-stage-outer {
+        margin:-7px 0px -35px 0px;
+    }
+    .resources .news-owl__carousel .owl-nav {
+        position: initial;
+        margin: 20px 0px;
+    }
+    .resources .news-owl__carousel .owl-dots {
+        position: initial;
+    }
+    #nav-contact__form-content .form-group {
+        max-width: 100%;
+    }
+    .contact .enter-area__bg {
+        background-image: url("../img/bg5.png");
+    }
+    .navbar-brand img:nth-child(1) {
+        display: none;
+    }
+    .navbar-brand img:nth-child(2) {
+        display: block;
+    }
+    .creation-area .column:first-child {
+        display: none;
+    }
+    .submit-column {
+        width: 100%;
+    }
+    .team-area__header-txt {
+        text-align: center  ;
+    } 
+    .about-us .block .column:first-child {
+        display: none;
+    }
+    .posts .news-owl__carousel .owl-nav {
+        top: -65px;
+    }
+    .post-area__block-inner {
+        flex-wrap: wrap-reverse;
+    }
+    .sidebar {
+        margin-top: 0px;
+        width: 100%;
+    }
+    .sidebar-list {
+        flex-direction: row;
+        justify-content: space-between;
+        margin-left: 0px;
+    }
+    .sidebar-list li a {
+        margin-bottom: 0px;
+    }
+}
